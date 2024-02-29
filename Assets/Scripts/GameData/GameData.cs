@@ -16,6 +16,7 @@ public class GameData
         {
             HighScore = CurrentScore;
         }
+        // test dummy
     }
 
     public void ResetScore()
