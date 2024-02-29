@@ -21,5 +21,6 @@ public class GameData
     public void ResetScore()
     {
         CurrentScore = 0;
+        // test commit dari github browser
     }
 }
